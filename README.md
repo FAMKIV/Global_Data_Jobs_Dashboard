@@ -7,6 +7,9 @@ An interactive data visualization project designed to explore the 2024–2025 la
 ## 🎥 Interactive Demo
 *Watch the dashboard in action as it filters through different job titles and updates KPIs in real-time:*
 
+
+https://github.com/user-attachments/assets/7ef8ea2e-062c-4a39-8c99-94948833a969
+
 ---
 
 ## 🚀 Key Features
