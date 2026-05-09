@@ -45,4 +45,4 @@ This dashboard is built to be fully dynamic, allowing users to drill down into s
 
 
 ## 📝 Author
-**Omar Mohamed** *Business Intelligence Analyst& Data Analyst* 
+**Omar Fahmy** *Business Intelligence Analyst& Data Analyst* 
